@@ -69,14 +69,3 @@ Alternatively, you could run an open-source LLM like Llama 3.2 using Ollama.
 ```bash
 make run
 ```
-
-## Wanna build a real time ML system using LLMs?
-Join the Real-time ML adventure with me.
-
-No pre-recorded session.
-Everything is live.
-You and me.
-Step by step.
-From zero to SYSTEM.
-
-**[👉 Click here to know more](https://realtimeml.carrd.co/)**
